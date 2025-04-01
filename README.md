@@ -6,40 +6,40 @@ This is a web-based application that finds the shortest path between two nodes i
 
 Features:
 
-.Accepts graph input in the form of node1-node2,weight;node1-node3,weight
+. Accepts graph input in the form of node1-node2,weight;node1-node3,weight
 
-.Allows users to specify the start node and end node
+. Allows users to specify the start node and end node
 
-.Implements Dijkstra's Algorithm to compute the shortest path
+. Implements Dijkstra's Algorithm to compute the shortest path
 
-.Displays the shortest path and its total distance
+. Displays the shortest path and its total distance
 
-.Visualizes the graph and highlights the shortest path
+. Visualizes the graph and highlights the shortest path
 
-.Error handling for invalid inputs
+. Error handling for invalid inputs
 
 Technologies Used:
 
-.HTML for the structure
+. HTML for the structure
 
-.CSS for styling
+. CSS for styling
 
-.JavaScript for implementing Dijkstra's algorithm and visualization
+. JavaScript for implementing Dijkstra's algorithm and visualization
 
 How to Use:
 
-.Enter Graph Data: Input the graph edges in the format A-B,4;A-C,2;B-D,5;C-D,1.
+. Enter Graph Data: Input the graph edges in the format A-B,4;A-C,2;B-D,5;C-D,1.
 
-.Set Start and End Nodes: Specify the source and destination nodes.
+. Set Start and End Nodes: Specify the source and destination nodes.
 
-.Find Shortest Path: Click the "Find Shortest Path" button.
+. Find Shortest Path: Click the "Find Shortest Path" button.
 
-.View Results: The shortest path and its distance will be displayed. The graph visualization will highlight the shortest path.
+. View Results: The shortest path and its distance will be displayed. The graph visualization will highlight the shortest path.
 
 Future Improvements:
 
-.Support for bidirectional edges
+. Support for bidirectional edges
 
-.Allow negative weights using Bellman-Ford algorithm
+. Allow negative weights using Bellman-Ford algorithm
 
-.Improve UI with animations
+. Improve UI with animations
